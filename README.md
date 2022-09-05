@@ -12,4 +12,4 @@ Doing so will shutdown your computer instantly preventing exposere to further St
 # Download and install
 
 
-Here: https://jmp.sh/bE35da0
+Here: https://jmp.sh/GtFXa4S
